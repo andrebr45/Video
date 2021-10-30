@@ -1,2 +1,3 @@
 # Video
- Programa para videos do you tube e com interface gráfica
+ Programa para baixar vídeos do you tube com interface gráfica tkinter
+ Em Desenvolvimento
